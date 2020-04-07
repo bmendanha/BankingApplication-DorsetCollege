@@ -1,0 +1,3 @@
+Customer: GUSTAVO TEST - Account Number: gt-11-7-20 Email:Gustavo@test.com Created 2020-03-04T15:44:04.900
+Wed Mar 04 15:45:47 GMT 2020 	Deposit 	500.00
+Wed Mar 04 15:46:58 GMT 2020	Withdraw 	 -200.00

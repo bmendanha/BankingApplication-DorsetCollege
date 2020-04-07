@@ -1,0 +1,5 @@
+Customer: ERNESTO ALONSO - Account Number: ea-13-5-1 Email:santillan@gmail.com Created 2020-03-04T12:42:17.153
+Wed Mar 04 12:43:34 GMT 2020 	Deposit 	500
+Wed Mar 04 12:45:45 GMT 2020	Withdraw 	 -600
+
+Accounting CLOSED: 2020-03-04T12:49:20.384
